@@ -7,4 +7,4 @@ CSS
 
 ** Go and See on live**
 
-https://adamkosior090.github.io/myPortfolio/
+[How it look's](https://myportfolioejdam.netlify.app)
